@@ -1,4 +1,4 @@
-import "./style.css";
+import "./public/style.css";
 import AgoraRTC from "agora-rtc-sdk-ng";
 import AgoraRTM from "agora-rtm-sdk";
 
