@@ -1,3 +1,3 @@
-const appid = "46158013ae194baf8383acd749931297";
+const appid = "a12f2b2483764337a0269a3174f55493";
 
 export default appid;
